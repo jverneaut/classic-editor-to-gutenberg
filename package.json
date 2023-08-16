@@ -1,0 +1,25 @@
+{
+  "name": "clasic-editor-to-gutenberg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jverneaut/classic-editor-to-gutenberg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jverneaut/classic-editor-to-gutenberg/issues"
+  },
+  "homepage": "https://github.com/jverneaut/classic-editor-to-gutenberg#readme",
+  "dependencies": {
+    "@jverneaut/config": "^0.0.1",
+    "mysql": "^2.18.1",
+    "prettier": "^3.0.2"
+  }
+}
